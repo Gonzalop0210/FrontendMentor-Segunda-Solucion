@@ -1,0 +1,36 @@
+.container__content__thanks {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 30px 45px;
+}
+
+.noMostrar {
+    display: none;
+}
+
+.img__thanks {
+    width: 9rem;
+    margin: 0 auto;
+}
+
+.count {
+    background-color: hsl(213, 19%, 18%);
+    padding: 10px;
+    width: 69%;
+    margin: 0 auto;
+    border-radius: 20px;
+    font-family: 'Overpass';
+    font-size: .8rem;
+    color: hsl(25, 89%, 59%);
+}
+
+.text__thanks {
+    font-family: 'Overpass';
+    font-weight: lighter;
+}
+
+.paragraph__thanks {
+    font-family: 'Overpass';
+    color: hsl(216, 12%, 54%);
+    font-size: .9rem;
+}
